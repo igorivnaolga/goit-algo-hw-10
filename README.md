@@ -106,3 +106,7 @@ Analytical solution of the integral
 quad function from scipy.integrate
 
 Make conclusions based on the comparison.
+
+## Conclusion Task 2
+
+In our Monte Carlo simulation with 100,000 random points, the estimated result is typically very close to the exact value (e.g., 2.66), though it may slightly vary each run due to its randomness.
